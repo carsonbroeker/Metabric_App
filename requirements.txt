@@ -1,0 +1,6 @@
+hiplot==0.1.33
+matplotlib==3.3.4
+pandas==1.2.4
+pySankey==0.0.1
+seaborn==0.11.1
+streamlit==1.13.0
