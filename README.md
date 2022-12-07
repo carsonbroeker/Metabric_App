@@ -5,4 +5,4 @@ The deployable web app utilizes both Streamlit and Heroku.
 
 You can run the Metabric.py script locally using Streamlit.
 
-The existing deployment can be accessed by the following url: https://metabric-app.herokuapp.com/
+The existing deployment can be accessed by the following url: https://carbroke-metabric-app-metabric-pbvyje.streamlit.app/
